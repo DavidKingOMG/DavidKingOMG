@@ -9,10 +9,10 @@
                         & C++
                         
 - 🌱 I’m currently learning Whitespace! :D
-- 💞️ I’m looking to collaborate on hacking the Federal Reserve.
+- 💞️ I’m looking to collaborate on hacking the Federal Reserve (is a joke... unless...).
 - 📫 How to reach me:
       Discord: its.dk
-- 😄 Pronouns: Monkey/Slayer
+- 😄 Pronouns: HIM
 - ⚡ Fun fact: I could prolly find you
 
 <!---
