@@ -1,15 +1,13 @@
 - 👋 Hi, I’m @DavidKingOMG
 - 👀 I’m interested in CyberSecurity
                         Hacking
-                        Cheating
                         Bypassing
                         Reverse Engineering
                         Coding
-                        Goth Latinas
                         & C++
                         
 - 🌱 I’m currently learning Whitespace! :D
-- 💞️ I’m looking to collaborate on hacking the Federal Reserve (is a joke... unless...).
+- 💞️ I’m looking to collaborate on hacking the Federal Reserve (is a joke).
 - 📫 How to reach me:
       Discord: its.dk
 - 😄 Pronouns: HIM
