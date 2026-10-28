@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @DavidKingOMG
 - 👀 I’m interested in:
 
-CyberSecurity
-Hacking
-Bypassing
-Reverse Engineering
-Coding
-& C++
+1. CyberSecurity
+2. Hacking
+3. Bypassing
+4. Reverse Engineering
+5. Coding
+6. & C++
                         
 - 🌱 I’m currently learning Whitespace! :D
 - 💞️ I’m looking to collaborate on hacking the Federal Reserve (is a joke).
